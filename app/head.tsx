@@ -22,7 +22,7 @@ export default function Head() {
       <meta property="og:url" content="https://next-folio-taupe.vercel.app/" />
       <meta
         property="og:image"
-        content="https://next-folio-taupe.vercel.app//portfolio-fork.png"
+        content="https://next-folio-taupe.vercel.app/portfolio-fork-dark.png"
       />
       <link rel="canonical" href="https://next-folio-taupe.vercel.app/" />
       <meta name="author" content="Yi Qian" />
