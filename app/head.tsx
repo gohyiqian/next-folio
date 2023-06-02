@@ -19,12 +19,12 @@ export default function Head() {
         property="og:description"
         content="I'm Yi Qian, full-stack developer based in Singapore. I specialized in React and Amazon Cloud."
       />
-      <meta property="og:url" content="https://jigarsable.vercel.app" />
+      <meta property="og:url" content="https://next-folio-taupe.vercel.app/" />
       <meta
         property="og:image"
-        content="https://jigarsable.vercel.app/portfolio-fork.png"
+        content="https://next-folio-taupe.vercel.app//portfolio-fork.png"
       />
-      <link rel="canonical" href="https://jigarsable.vercel.app" />
+      <link rel="canonical" href="https://next-folio-taupe.vercel.app/" />
       <meta name="author" content="Yi Qian" />
       <meta name="language" content="English" />
       <meta
